@@ -1,13 +1,13 @@
 {
   "mappings": [
-    "/content/aemuexcommercestorefront/:/",
-    "/content/aemuexcommercestorefront/configuration:/.helix/config.json",
-    "/content/aemuexcommercestorefront/headers:/.helix/headers.json",
-    "/content/aemuexcommercestorefront/metadata:/metadata.json",
-    "/content/aemuexcommercestorefront/placeholders:/placeholders.json",
-    "/content/aemuexcommercestorefront.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
+    "/content/aemuexcommercestore/:/",
+    "/content/aemuexcommercestore/configuration:/.helix/config.json",
+    "/content/aemuexcommercestore/headers:/.helix/headers.json",
+    "/content/aemuexcommercestore/metadata:/metadata.json",
+    "/content/aemuexcommercestore/placeholders:/placeholders.json",
+    "/content/aemuexcommercestore.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
   ],
   "includes": [
-    "/content/aemuexcommercestorefront/"
+    "/content/aemuexcommercestore/"
   ]
 }
